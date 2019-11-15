@@ -6,7 +6,7 @@
 * Day 6. [Logical Operators](src/day6)
 * Day 7. [Assignment Operators](src/day7)
 * Day 8. [String methods](src/day8)
-* Day 9. [Random/Scanner](src/day09)
+* Day 9. [Random/Scanner](src/day9)
 * Day 10. [If/Else](src/day10)
 * Day 11. [Else-If/Switch](src/day11)
 * Day 12. [Loop: While/Do-While Loop](src/day12)
